@@ -1,0 +1,10 @@
+{
+  "name": "J.K. Rowling",
+  "slug": "jk-rowling",
+  "birth_year": 1965,
+  "death_year": null,
+  "nationality": "British",
+  "gender": "female",
+  "pen_names": ["Robert Galbraith"],
+  "genres": ["fantasy", "mystery"]
+}
