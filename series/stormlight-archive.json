@@ -1,0 +1,18 @@
+{
+  "name": "The Stormlight Archive",
+  "slug": "stormlight-archive",
+  "authors": ["brandon-sanderson"],
+  "status": "ongoing",
+  "universe": "cosmere",
+  "genre": "fantasy",
+  "related_series": ["mistborn", "warbreaker"],
+  "books": [
+    { "position": 1,   "title": "The Way of Kings",  "year": 2010, "type": "main" },
+    { "position": 2,   "title": "Words of Radiance", "year": 2014, "type": "main" },
+    { "position": 2.5, "title": "Edgedancer",        "year": 2016, "type": "novella" },
+    { "position": 3,   "title": "Oathbringer",       "year": 2017, "type": "main" },
+    { "position": 3.5, "title": "Dawnshard",         "year": 2020, "type": "novella" },
+    { "position": 4,   "title": "Rhythm of War",     "year": 2020, "type": "main" },
+    { "position": 5,   "title": "Wind and Truth",    "year": 2024, "type": "main" }
+  ]
+}
