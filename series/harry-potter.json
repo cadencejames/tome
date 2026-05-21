@@ -1,0 +1,18 @@
+{
+  "name": "Harry Potter",
+  "slug": "harry-potter",
+  "authors": ["jk-rowling"],
+  "status": "completed",
+  "universe": null,
+  "genre": "fantasy",
+  "related_series": [],
+  "books": [
+    { "position": 1, "title": "Harry Potter and the Philosopher's Stone", "year": 1997, "type": "main" },
+    { "position": 2, "title": "Harry Potter and the Chamber of Secrets", "year": 1998, "type": "main" },
+    { "position": 3, "title": "Harry Potter and the Prisoner of Azkaban", "year": 1999, "type": "main" },
+    { "position": 4, "title": "Harry Potter and the Goblet of Fire", "year": 2000, "type": "main" },
+    { "position": 5, "title": "Harry Potter and the Order of the Phoenix", "year": 2003, "type": "main" },
+    { "position": 6, "title": "Harry Potter and the Half-Blood Prince", "year": 2005, "type": "main" },
+    { "position": 7, "title": "Harry Potter and the Deathly Hallows", "year": 2007, "type": "main" }
+  ]
+}
